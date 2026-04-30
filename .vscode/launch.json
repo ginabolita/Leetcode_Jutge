@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Gina/Documents/uni/25-26-q1/IA/Leetcode_Jutge/P1",
-      "program": "c:/Users/Gina/Documents/uni/25-26-q1/IA/Leetcode_Jutge/P1/build/Debug/outDebug",
+      "cwd": "c:/Users/Gina/Documents/uni/25-26-q1/IA/Leetcode_Jutge/P1 - c++",
+      "program": "c:/Users/Gina/Documents/uni/25-26-q1/IA/Leetcode_Jutge/P1 - c++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
