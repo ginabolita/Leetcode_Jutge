@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+// Write a program that reads a letter and prints it in lowercase if it was uppercase, or prints it in uppercase if it was lowercase.
+// Input
+// Input consists of a letter.
+// Output
+// Print a line with the given letter in lowercase if it was uppercase, or in uppercase if it was lowercase.
 class Main{
 	public static void main(String[] args) {
 		Scanner myObj = new Scanner(System.in);

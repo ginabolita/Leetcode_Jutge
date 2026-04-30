@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+// Write a program that reads three numbers and prints their maximum. 
+// Input:
+// Input consists of three integer numbers.
+// Output:
+// Print a line with the maximum of the three numbers.
+
 class Main {
 	public static void main(String[] args) {
 		Scanner myObj = new Scanner(System.in);
